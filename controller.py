@@ -11,12 +11,3 @@ def btm ():
     view_data (num_data)
 
 
-# def surname_logger (model):
-#     with open ('book.csv', 'a') as file:
-#         file.write (f'Фамилия: {model}\n')
-# def name_logger (model):
-#     with open ('book.csv', 'a') as file:
-#         file.write (f'Имя: {model}\n')
-# def second_name_logger (model):
-#     with open ('book.csv', 'a') as file:
-#         file.write (f'Отчество: {model}\n')
